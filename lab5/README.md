@@ -1,4 +1,4 @@
-Lab 5
+Lab 5 EKS Windows Troubleshooting
 ---
 
 Learning Objectives

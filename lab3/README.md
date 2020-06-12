@@ -1,4 +1,4 @@
-Lab 3
+Lab 3 Kubernetes Scaling with HPA and ClusterAutoscaler
 ===
 
 Learning Objectives
